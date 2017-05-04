@@ -12,8 +12,15 @@ li {
 
 }
 
-.container {
+.searchbox {
     text-align: center;
+    width: 50%;
+
+}
+
+.googleimage {
+    position: relative;
+    top: 25%;
 
 }
 
